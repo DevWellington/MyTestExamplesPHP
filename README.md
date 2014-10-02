@@ -1,4 +1,4 @@
 MyTestExamplesPHP
 =================
 
-Projeto de Estudo: Repositório para exemplos de códigos e estudos diversos;
+Projeto de Estudo: Repositório para exemplos de códigos (PHP) e estudos diversos;
